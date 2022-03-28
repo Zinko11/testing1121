@@ -1,0 +1,14 @@
+
+div#logo{
+    position: relative;
+    top: 45px;
+    font-size: 45px;
+   right: 20px;
+}
+div{
+    float: right;
+    margin: 20px;
+    top: auto;
+   position: relative;
+   
+}
